@@ -36,11 +36,14 @@ Config.TrailerLocations = {
 
 -- Set the possible destinations where you have to drive the trailer to
 Config.Destinations = {
-    { x = -560.07, y = 7252.17, z = 37.81 }, -- Chumash Plaza (5033)
-    { x = 408.09, y = 6473.16, z = 28.79 },
-    { x = 1459.13, y = 6548.77, z = 14.59 },
-    { x = -673.27, y = 5787.38, z = 17.33 }
+    { x = -215.53, y = 6542.11, z = 10.34 },
+    { x = 2511.01, y = 4963.12, z = 43.94 },
+    { x = 349.59, y = 3410.73, z = 35.72 },
+    { x = -1153.78, y = 2658.09, z = 17.31 },
+    { x = -2393.63, y = 3252.24, z = 32.13 },
+    { x = -2168.67, y = 4276.12, z = 47.99 }
 }
+
 
 -- Set the possible trailer model names that will be used
 Config.TrailerModels = {
